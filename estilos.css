@@ -5,7 +5,7 @@ header{
     text-align: center;
     color: white;
 }
-7* estilo para la barra de navegación
+/* estilo para la barra de navegación */
 nav a{
     color: black;
     text-decoration: none;
