@@ -17,7 +17,7 @@ nav a:hover{
 }
 /*Estilo para la sección principal*/
 .contenedor{
-    width: 90px;
+    width: 90%;
     margin: 20px auto;
     padding: 15px;
     background-color: #f4f4f4;
